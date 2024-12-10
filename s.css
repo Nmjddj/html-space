@@ -1,0 +1,29 @@
+body{
+    color:#82a5ca;
+
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+button{
+    padding: 10px 20px;
+    background-color:#82a5ca;
+    background-size: cover;
+   
+    font-family: inherit;
+
+}
+.huhu{
+    border-bottom: 4px solid white;
+}
+.hehe
+{
+    background-image: url("ss.gif");
+    background-size:cover;
+    padding: 200px 40px 200px 40px;
+    
+}
+h1{
+    text-shadow: 10px 5px 4px black;
+}
